@@ -1,13 +1,13 @@
 # pioneers
 This is a repository containing software engineering project 
 
-PROJECT TOPIC: 
+__PROJECT TOPIC: 
      
      E - TICKETING 
      
      This is a Java project that is building a software for booking train tickets online. 
 
-TEAM:
+__TEAM:
 
 *G. KRUTHIKA    
 
@@ -18,13 +18,13 @@ TEAM:
 *SAI NITISH
 
 
-TOOLS USED in making of the project :
+__TOOLS USED in making of the project :
 
-. Ecplise
+Ecplise
 
-. postgresql
+postgresql
 
-. star uml
+star uml
 
 
 
