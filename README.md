@@ -1,24 +1,24 @@
-# pioneers
+# PIONEERS
 This is a repository containing software engineering project 
 
-__PROJECT TOPIC: 
+### PROJECT TOPIC: 
      
      E - TICKETING 
      
      This is a Java project that is building a software for booking train tickets online. 
 
-__TEAM:
+#### TEAM:
 
-*G. KRUTHIKA    
+* G. KRUTHIKA    
 
-*GURU PRAKASH
+* GURU PRAKASH
 
-*SRUTHI
+* SRUTHI
 
-*SAI NITISH
+* SAI NITISH
 
 
-__TOOLS USED in making of the project :
+### TOOLS USED in making of the project :
 
 Ecplise
 
