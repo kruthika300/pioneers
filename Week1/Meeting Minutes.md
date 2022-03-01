@@ -19,6 +19,8 @@
 >**Time Alocated** : 20 minutes<br>
 >**Platform** : Microsoft Teams<br>
 >**Discussion** :<br>
+> * nnjnjnj
+> * bujbjnjn
 ><br>
 >**Status** : Completed<br>
 ><br>
