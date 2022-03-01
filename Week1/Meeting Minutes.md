@@ -13,7 +13,7 @@
 > Sruthi(354),
 > Kruthika G(319),
 > Guru Prakash(316),
-> 
+> Sai Niteesh(367).
 
 >Agenda :<br>
 >Time Alocated :<br>
@@ -31,8 +31,10 @@
 >Type Of Meeting : Project Discussion <br>
 ><br>
 >Attendees :
-> Sruthi(354)
-> Kruthika G(319)<br>
+> Sruthi(354),
+> Kruthika G(319),
+> Sai Niteesh(367),
+> Guru Prakash(316).<br>
 > Agenda :<br>
 > Time Alocated :<br>
 > Platform :Teams<br>
