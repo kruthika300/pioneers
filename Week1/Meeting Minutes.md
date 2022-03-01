@@ -15,7 +15,7 @@
 > Guru Prakash(316),
 > Sai Niteesh(367).
 
->Agenda :<br>
+>Agenda :<br> assigning task 
 >Time Alocated :<br>
 >Platform : Microsoft Teams<br>
 >Discussion :<br>
@@ -35,7 +35,7 @@
 > Kruthika G(319),
 > Sai Niteesh(367),
 > Guru Prakash(316).<br>
-> Agenda :<br>
+> Agenda :<br> reviewing use case, E-R diagram
 > Time Alocated :<br>
 > Platform :Teams<br>
 > Discussion :<br>
