@@ -4,10 +4,10 @@
 
 >Date :<br>
 >Time :<br>
->Location :<br>
+>Location : Microsoft Teams <br>
 ><br>
 > Meeting Created By :<br>
->Type Of Meeting :<br>
+>Type Of Meeting : Project Discussion <br>
 ><br>
 >Attendees :
 > Sruthi(354),
@@ -17,7 +17,7 @@
 
 >Agenda :<br>
 >Time Alocated :<br>
->Platform : Teams<br>
+>Platform : Microsoft Teams<br>
 >Discussion :<br>
 ><br>
 >Status : Completed<br>
@@ -25,7 +25,7 @@
 ><br>
 >Date :<br>
 >Time :<br>
->Location :<br>
+>Location : Microsoft Teams<br>
 ><br>
 >Meeting Created By :<br>
 >Type Of Meeting :<br>
