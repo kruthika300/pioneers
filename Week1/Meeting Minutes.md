@@ -15,8 +15,8 @@
 > Guru Prakash(316),
 > Sai Niteesh(367).
 
->**Agenda** : assigning task 
->**Time Alocated** : 20 minutes
+>**Agenda** : assigning task <br>
+>**Time Alocated** : 20 minutes<br>
 >**Platform** : Microsoft Teams<br>
 >**Discussion** :<br>
 ><br>
@@ -35,8 +35,8 @@
 > Kruthika G(319),
 > Sai Niteesh(367),
 > Guru Prakash(316).<br>
-> **Agenda** :<br> reviewing use case, E-R diagram, user stories
-> **Time Alocated** : 30 minutes
+> **Agenda** :<br> reviewing use case, E-R diagram, user stories<br>
+> **Time Alocated** : 30 minutes<br>
 > **Platform** : Microsoft Teams<br>
 > **Discussion** :<br>
 > <br>
