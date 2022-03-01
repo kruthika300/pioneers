@@ -19,9 +19,11 @@
 >**Time Alocated** : 20 minutes<br>
 >**Platform** : Microsoft Teams<br>
 >**Discussion** :<br>
-> * nnjnjnj
-> * bujbjnjn
+> * We had come with some new functionality to increase scope of the project.
+> * We had divided our task ourselves.
 ><br>
+
+
 >**Status** : Completed<br>
 ><br>
 ><br>
@@ -41,7 +43,13 @@
 > **Time Alocated** : 30 minutes<br>
 > **Platform** : Microsoft Teams<br>
 > **Discussion** :<br>
+> * First we had completed User stories
+> * Using it as a base we drew Use-case diagram
+> * At last we made the ER diagram(Draft)
 > <br>
+
+
+
 >**Status** : Completed
 
 
