@@ -1,1 +1,9 @@
-
+###User Stories
+> admin need to login through the app, if the admin is already used this app then it authenticates as valid user if not it shows invalid user as he need to give his personal details to create account to that app.
+> Valid admin will go to the main menu of that app and invalid admin will remain at the login page only.
+> Then the admin has to search for the train and if there is availability he/she can book the tickets.
+> Then the admin should enter the passenger details and should pay the payment for booking his/her ticket to the bank and that data will be collected by that app.
+> After the reservation successfully completed the admin can check the status of his/her ticket.
+> A admin/passenger can apply for cancellation after logging through the account if they don’t want to travel  due to some other reasons.
+> After that passenger will get confirmation pop up will be displayed and then the passenger has to click ok button to confirm the final cancellation of train ticket.
+> A passenger he/she will be refunded to the payment bank after couple of days.
