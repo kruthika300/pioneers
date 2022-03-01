@@ -1,4 +1,4 @@
-###User Stories
+### User Stories
 > admin need to login through the app, if the admin is already used this app then it authenticates as valid user if not it shows invalid user as he need to give his personal details to create account to that app.
 > Valid admin will go to the main menu of that app and invalid admin will remain at the login page only.
 > Then the admin has to search for the train and if there is availability he/she can book the tickets.
