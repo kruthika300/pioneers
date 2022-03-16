@@ -15,7 +15,7 @@ kruthika(319), Guru prakash(316), sruthi(354)
 **Agenda** :  Assigning works
 **Time Alocated** : 13 min
 **Platform** : Teams
-**Discussion** :
+**Discussion** : Creating classes
 
 We had assigned the work among ourselves.
 **Status** : Completed
@@ -37,6 +37,6 @@ kruthika(319), Guru prakash(316), sruthi(354)
 **Agenda** :  giving association 
 **Time Alocated** : 2 hours
 **Platform** : class
-**Discussion** :
+**Discussion** : Relationship between classes
 
 **Status** : Completed
