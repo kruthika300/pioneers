@@ -1,27 +1,41 @@
 We had overall 2 meeting in this week
+## meeting 1
+**Date** : Sunday, march 20,2022 Time : 2 pm Location : Teams
 
-Date : Sunday, march 20,2022 Time : 2 pm Location : Teams
+**Meeting Created By** : Sruthi Subha **Type of Meeting** : Project Discussion
 
-Meeting Created By : Sruthi Subha Type of Meeting : Project Discussion
-
-Attendees :
+**Attendees :**
 
 kruthika(319), Guru prakash(316), sruthi(354) , Nitish(367)
 
-Agenda : Assigning works Time Alocated : 20 min Platform : Teams Discussion : installing java ecplise, postgre sql and creating sql tables
+**Agenda** : Assigning works 
 
-We had assigned the work among ourselves. Status : Completed
+**Time Alocated** : 20 min 
 
-meeting 2
+**Platform** : Teams 
 
-Date : Sunday, 22 march,2022 Time : 1 : 00 PM Location : class
+**Discussion** : installing java ecplise, postgre sql and creating sql tables
 
-Type of Meeting : Project Discussion
+We had assigned the work among ourselves. 
 
-Attendees :
+**Status** : Completed
+
+## meeting 2
+
+**Date** : Sunday, 22 march,2022 **Time** : 1 : 00 PM Location : class
+
+**Type of Meeting** : Project Discussion
+
+**Attendees :**
 
 kruthika(319), Guru prakash(316), sruthi(354) ,Nitish(367)
 
-Agenda : creating login page,  time allocated : 2 hours, Platform : class Discussion : we discussed about creating registration and login page and searching for trains
+**Agenda** : creating login page
 
-Status : Completed
+**time allocated** : 2 hours
+
+**Platform** : class 
+
+**Discussion** : we discussed about creating registration and login page 
+
+**Status** : Completed
