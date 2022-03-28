@@ -7,6 +7,8 @@
 | adding background colors   |  Guru Prkash, nitish     | no problems faced | completed     | 28-3-22
 | layout checking  | nitish    | having correct layout to all frames in all files | completed | 29-3-2022
 | adding appropriate font size | kruthika, sruthi   | no problems faced | completed | 28-3-2022
+| inserting values to sql | kruthika, nitish  | getting errors in code | completed | 29-3-2022
+
 
 
 
