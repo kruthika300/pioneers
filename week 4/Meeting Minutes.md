@@ -20,7 +20,7 @@ kruthika(319), Guru prakash(316), sruthi(354), Nitish(367) </br>
 We had assigned the work among ourselves.</br>
 **Status** : Completed </br>
 
-Meeting 2 
+MEETING 2 
 
 **Date** : Saturday, 26th March,2022 </br>
 **Time** : 10 : 00 PM </br>
